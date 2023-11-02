@@ -1,0 +1,3 @@
+/home/hiepit/Study/OpenCV/Ex6/CMakeFiles/Ex6.dir
+/home/hiepit/Study/OpenCV/Ex6/CMakeFiles/edit_cache.dir
+/home/hiepit/Study/OpenCV/Ex6/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hiepit/Study/OpenCV/Ex3/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Ex3.dir/Ex3.cpp.o -c /home/hiepit/Study/OpenCV/Ex3/Ex3.cpp",
+  "file": "/home/hiepit/Study/OpenCV/Ex3/Ex3.cpp"
+}
+]

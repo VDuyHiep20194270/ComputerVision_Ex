@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project( Ex8 )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable(Ex8 Ex8.cpp)
+target_link_libraries( Ex8 ${OpenCV_LIBS} )

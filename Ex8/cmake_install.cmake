@@ -1,4 +1,4 @@
-# Install script for directory: /home/hiepit/Study/OpenCV/Ex8
+# Install script for directory: /home/hiepit/Study/OpenCV/ComputerVision_Ex/Ex8
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hiepit/Study/OpenCV/Ex8/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hiepit/Study/OpenCV/ComputerVision_Ex/Ex8/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

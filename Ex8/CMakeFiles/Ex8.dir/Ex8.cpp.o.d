@@ -1,4 +1,5 @@
-CMakeFiles/Ex8.dir/Ex8.cpp.o: /home/hiepit/Study/OpenCV/Ex8/Ex8.cpp \
+CMakeFiles/Ex8.dir/Ex8.cpp.o: \
+ /home/hiepit/Study/OpenCV/ComputerVision_Ex/Ex8/Ex8.cpp \
  /usr/include/stdc-predef.h /usr/local/include/opencv4/opencv2/opencv.hpp \
  /usr/local/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/local/include/opencv4/opencv2/core.hpp \

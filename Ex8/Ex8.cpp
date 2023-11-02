@@ -31,6 +31,7 @@ int main() {
 
     // Hiển thị ảnh với các đường thẳng đã vẽ
     cv::imshow("RANSAC Lines", image);
+    cv::imwrite("Detection.jpg",image);
     cv::waitKey(0);
 
     return 0;
